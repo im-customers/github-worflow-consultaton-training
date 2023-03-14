@@ -1,2 +1,2 @@
-# github-worflow-consultaton-training-
+# github-worflow-consultaton-training
 Github Workflow Consultation
